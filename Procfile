@@ -1,1 +1,1 @@
-web: modelos/bin/heroku-php-apache2 ./
+web: extensiones/bin/heroku-php-apache2 ./
