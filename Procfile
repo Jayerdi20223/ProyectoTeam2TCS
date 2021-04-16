@@ -1,1 +1,1 @@
-web: vistas/bin/heroku-php-apache2 ./
+web: modelos/bin/heroku-php-apache2 ./
